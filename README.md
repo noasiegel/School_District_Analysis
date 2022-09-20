@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-##Discoveries made
+## Discoveries made
 
 A few discoveries I made while performing my analysis included searching for more ways than we
 learned in the module to get to the solution that was asked of us. This included using slightly different syntax
